@@ -1,6 +1,6 @@
 # for support join here [TorrentLeech-Gdrive](https://telegram.dog/GBotStore)
 # working example group [Leech Here](https://telegram.dog/GBotStore)
-
+[<img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" height="40"/>](https://heroku.com/deploy?template=https://github.com/Darshanjk/gdbotjk "Heroku")
 # Telegram Torrent Leecher 🔥🤖
 
 A Telegram Torrent (and youtube-dl) Leecher based on [Pyrogram](https://github.com/pyrogram/pyrogram)
